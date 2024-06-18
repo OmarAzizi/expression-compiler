@@ -1,4 +1,5 @@
 # expression-compiler
+This is just me practicing compiler engineering after a long time of not doing so :)
 
 ## How to Compile
 First clone the repository
