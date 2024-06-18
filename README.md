@@ -29,4 +29,5 @@ clang -o expr expr.o ../../rtcalc.c
 After running the `expr` executable you will be asked to input a value for `a`
 
 ## Example of compiling an expression
-![image](https://github.com/OmarAzizi/expression-compiler/assets/110500643/02448830-3b5f-4c35-8919-0453670924d9)
+![image](https://github.com/OmarAzizi/expression-compiler/assets/110500643/2c14dfef-b7a3-41c9-bf79-857124d7b089)
+
